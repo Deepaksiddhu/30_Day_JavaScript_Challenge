@@ -1,0 +1,17 @@
+.red{
+    background-color: red;
+}
+.paragraphs{
+    background-color: yellow;
+}
+
+#hoverElement{
+    width: 300px;
+    height: 300px;
+    background-color: aqua;
+    font-size: 4.5rem;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}

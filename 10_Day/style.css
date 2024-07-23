@@ -1,0 +1,22 @@
+#imyImage{
+    display: block;
+    margin:0 auto;
+}
+
+.hover{
+width: 200px;
+height: 200px;
+border-radius: 20px;
+background-color: chartreuse;
+color: black;
+text-align: center;
+font-size:xx-large ;
+}
+.Task10{
+    width: 200px;
+    height: 200px;
+    border: gray solid 5px;
+    border-radius: 20px;
+    text-align: center;
+
+}

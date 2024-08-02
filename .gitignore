@@ -1,0 +1,165 @@
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Environment variables
+.env
+.env.test
+.env.production
+.env.local
+.env.*.local
+
+# Dist folder
+dist/
+build/
+
+# Parcel-bundler cache (https://parceljs.org/)
+.cache
+.parcel-cache
+
+# Next.js
+.next/
+
+# Nuxt.js
+.nuxt/
+node_modules/
+
+# SvelteKit
+.svelte-kit/
+
+# Gatsby files
+.cache/
+# Comment out if you have React Native dependencies and use npm
+# node_modules/
+
+# Serverless directories
+.serverless/
+
+# FuseBox cache
+.fusebox/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional stylelint cache
+.stylelintcache
+
+# Optional IDE-specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# MacOS files
+.DS_Store
+
+# Thumbnails
+._*
+
+# Backup files
+*.bak
+*.swp
+*.tmp
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+
+# dotenv environment variables file
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Netlify build folder
+.netlify/
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Docker images
+*.tar
+
+# Parcel cache
+.cache/
+
+# If you are using React Native
+# OS-specific files
+# Thumbs.db
+# .Spotlight-V100
+# .Trashes
+
+# If using Prettier for code formatting
+.prettierignore
+
+# Ignore API keys and secrets
+.apikeys
+
+# Ignore build directories
+build/
+
+# Ignore runtime data
+*.pid
+
+# Ignore gatsby files
+.cache/
+
+# Ignore workspace files and directories
+.vscode/
+*.code-workspace
+*.tmbundle
+*.d.ts
+*.log
+
+# IDEs and editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Project artifacts
+*.swp
+*.tmp
+*.bak
+*.orig
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn integrity file
+.yarn-integrity
+
+# Ignore linting cache
+.eslintcache
+.stylelintcache
